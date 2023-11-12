@@ -1,0 +1,932 @@
+,Education,JoiningYear,City,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,id,Race
+911,Bachelors,2014,Bangalore,3,25.0,Female,No,2,911,white
+2235,Bachelors,2016,Bangalore,3,28.0,Female,No,5,2235,white
+3395,Bachelors,2013,Bangalore,3,34.0,Male,No,0,3395,black
+1617,PHD,2018,Pune,3,28.0,Male,No,4,1617,white
+4003,Bachelors,2016,Bangalore,3,33.0,Male,Yes,5,4003,white
+91,Bachelors,2015,New Delhi,3,23.0,Male,No,0,91,white
+1036,Bachelors,2015,Bangalore,3,30.0,Male,No,4,1036,white
+613,Bachelors,2014,Pune,1,28.0,Female,No,4,613,white
+3214,Bachelors,2015,Pune,2,37.0,Male,No,3,3214,white
+2328,Bachelors,2015,Bangalore,3,30.0,Female,No,1,2328,black
+3511,Masters,2017,New Delhi,2,41.0,Male,No,2,3511,white
+3481,Bachelors,2013,Pune,2,35.0,Female,No,1,3481,white
+1111,Bachelors,2013,Pune,3,27.0,Male,No,4,1111,white
+1380,Bachelors,2015,New Delhi,1,27.0,Female,No,4,1380,white
+2619,Bachelors,2015,Bangalore,3,32.0,Male,No,4,2619,white
+375,Bachelors,2018,New Delhi,3,28.0,Female,Yes,4,375,white
+4017,PHD,2017,New Delhi,3,41.0,Male,No,3,4017,black
+776,Masters,2014,Bangalore,3,28.0,Female,No,5,776,white
+2714,Bachelors,2012,Bangalore,3,28.0,Female,No,5,2714,white
+4139,Bachelors,2017,Bangalore,3,39.0,Male,No,3,4139,white
+199,Bachelors,2015,Pune,3,29.0,Male,No,3,199,white
+2680,Bachelors,2014,New Delhi,3,30.0,Male,No,4,2680,white
+955,Masters,2017,New Delhi,3,27.0,Male,No,4,955,white
+3576,Bachelors,2014,Pune,1,37.0,Female,No,1,3576,white
+2121,Masters,2015,Pune,2,30.0,Female,No,2,2121,white
+2283,Bachelors,2016,Pune,3,31.0,Male,No,1,2283,white
+2833,Bachelors,2014,Pune,3,28.0,Male,No,4,2833,white
+2110,Bachelors,2014,Pune,2,27.0,Male,No,4,2110,white
+1878,Bachelors,2015,Pune,2,28.0,Female,No,4,1878,white
+88,Bachelors,2014,Bangalore,3,30.0,Male,No,4,88,white
+1462,Bachelors,2012,Bangalore,3,28.0,Male,No,5,1462,white
+1187,Bachelors,2012,Pune,3,30.0,Male,No,2,1187,white
+1305,Masters,2017,New Delhi,3,27.0,Male,No,3,1305,black
+1440,Bachelors,2016,Bangalore,1,26.0,Male,No,2,1440,white
+4299,Bachelors,2012,Bangalore,3,35.0,Female,No,5,4299,white
+3813,Bachelors,2014,New Delhi,3,43.0,Male,No,5,3813,white
+2083,Bachelors,2016,Bangalore,3,31.0,Male,No,1,2083,white
+505,Bachelors,2018,Pune,3,28.0,Male,No,4,505,black
+1646,Bachelors,2017,Bangalore,3,29.0,Male,No,5,1646,black
+476,Bachelors,2017,New Delhi,2,29.0,Female,No,3,476,white
+418,Bachelors,2016,Bangalore,3,26.0,Male,No,2,418,white
+2051,Bachelors,2012,Bangalore,2,29.0,Female,No,5,2051,white
+1505,Bachelors,2014,Pune,3,28.0,Male,Yes,5,1505,white
+317,Bachelors,2014,Pune,3,27.0,Female,No,3,317,white
+3112,Bachelors,2016,Pune,3,40.0,Male,No,5,3112,white
+1525,Masters,2015,New Delhi,3,30.0,Male,No,0,1525,black
+3040,Bachelors,2014,Bangalore,3,35.0,Male,No,4,3040,white
+1886,Masters,2015,Pune,2,30.0,Female,No,0,1886,white
+4588,Bachelors,2013,Bangalore,3,32.0,Male,No,3,4588,black
+221,Bachelors,2013,Pune,2,27.0,Male,No,4,221,black
+2878,Bachelors,2013,Pune,3,32.0,Male,No,0,2878,white
+2030,Bachelors,2015,Bangalore,3,32.0,Male,No,2,2030,white
+3823,Bachelors,2015,Pune,2,35.0,Female,Yes,3,3823,white
+4450,Bachelors,2013,Pune,3,37.0,Female,No,0,4450,black
+1966,Bachelors,2013,Pune,3,26.0,Female,No,2,1966,white
+341,Bachelors,2015,Bangalore,3,26.0,Female,No,2,341,white
+2403,Masters,2017,New Delhi,2,30.0,Male,No,2,2403,white
+2125,Masters,2017,Pune,2,31.0,Female,No,1,2125,white
+279,Masters,2017,New Delhi,2,30.0,Male,Yes,2,279,black
+1161,Bachelors,2015,New Delhi,3,29.0,Male,No,1,1161,white
+1754,Bachelors,2017,New Delhi,3,29.0,Female,No,4,1754,white
+4571,Bachelors,2017,New Delhi,2,39.0,Female,No,3,4571,white
+4413,Bachelors,2015,Bangalore,3,24.0,Male,No,1,4413,white
+2958,Bachelors,2014,Bangalore,3,31.0,Female,No,2,2958,black
+771,Bachelors,2016,Pune,1,26.0,Female,No,3,771,white
+1451,Bachelors,2014,Bangalore,3,25.0,Male,No,2,1451,white
+4382,Bachelors,2012,Pune,3,37.0,Male,No,5,4382,white
+724,Bachelors,2018,Bangalore,3,27.0,Male,No,4,724,white
+2757,Bachelors,2013,Pune,3,31.0,Male,No,0,2757,white
+4640,Bachelors,2015,Bangalore,3,37.0,Male,No,0,4640,white
+4269,Bachelors,2014,Pune,3,27.0,Male,No,4,4269,white
+68,Bachelors,2015,Bangalore,3,25.0,Female,No,2,68,black
+1640,Bachelors,2018,Pune,3,30.0,Male,No,2,1640,white
+899,Bachelors,2017,Pune,3,28.0,Male,No,5,899,white
+4642,Bachelors,2012,Bangalore,3,38.0,Female,No,4,4642,white
+4167,Bachelors,2014,Pune,3,34.0,Male,Yes,4,4167,white
+2672,Masters,2017,New Delhi,2,31.0,Male,No,1,2672,white
+993,Bachelors,2014,Bangalore,3,28.0,Male,No,4,993,white
+4141,Bachelors,2015,Pune,2,42.0,Female,Yes,0,4141,black
+4529,Bachelors,2015,Pune,3,37.0,Male,No,3,4529,white
+1294,Bachelors,2015,Pune,1,27.0,Female,No,3,1294,white
+2795,Bachelors,2018,Bangalore,3,28.0,Male,No,5,2795,white
+130,Bachelors,2017,Bangalore,3,28.0,Female,No,4,130,white
+3671,Bachelors,2016,Bangalore,3,36.0,Male,No,3,3671,yellow
+1127,Bachelors,2012,Pune,3,29.0,Male,No,5,1127,white
+322,Masters,2012,New Delhi,3,26.0,Female,No,2,322,white
+2316,Masters,2013,Bangalore,2,31.0,Female,No,2,2316,white
+889,Bachelors,2017,Bangalore,3,28.0,Male,No,5,889,black
+397,Bachelors,2017,New Delhi,2,29.0,Female,No,1,397,white
+4008,Bachelors,2017,Bangalore,3,36.0,Male,No,5,4008,white
+599,Bachelors,2016,Bangalore,3,29.0,Male,No,2,599,yellow
+118,Bachelors,2017,Bangalore,3,27.0,Female,No,4,118,black
+936,Masters,2017,New Delhi,2,29.0,Male,No,2,936,white
+2750,Bachelors,2014,Bangalore,3,31.0,Male,No,1,2750,white
+1935,Bachelors,2016,Bangalore,3,27.0,Male,No,4,1935,black
+2689,Masters,2017,New Delhi,2,31.0,Female,No,2,2689,white
+1189,Masters,2018,New Delhi,3,26.0,Male,No,2,1189,black
+2611,Bachelors,2016,Bangalore,3,30.0,Female,No,1,2611,black
+3741,Bachelors,2012,Bangalore,3,36.0,Male,No,1,3741,white
+4614,Bachelors,2016,New Delhi,3,27.0,Female,No,3,4614,black
+2040,Masters,2015,Bangalore,2,29.0,Female,Yes,5,2040,white
+1264,PHD,2014,Bangalore,1,27.0,Female,No,3,1264,black
+35,Bachelors,2014,Bangalore,1,32.0,Female,No,3,35,white
+3496,Bachelors,2012,Bangalore,3,42.0,Male,No,3,3496,white
+1605,Bachelors,2013,Bangalore,3,27.0,Male,No,4,1605,white
+3455,Bachelors,2015,New Delhi,3,33.0,Female,No,2,3455,white
+1988,Bachelors,2014,Bangalore,3,30.0,Male,No,1,1988,white
+4260,Masters,2017,Pune,3,34.0,Male,Yes,2,4260,white
+2944,Bachelors,2013,Bangalore,2,27.0,Female,No,4,2944,black
+4233,Masters,2017,New Delhi,3,34.0,Female,No,0,4233,white
+4295,Bachelors,2013,Pune,3,42.0,Female,No,1,4295,white
+2832,Bachelors,2012,New Delhi,3,30.0,Female,No,5,2832,white
+619,Bachelors,2013,Bangalore,3,27.0,Male,Yes,4,619,red
+369,Bachelors,2014,Bangalore,3,30.0,Male,No,2,369,white
+2119,Bachelors,2012,Bangalore,3,29.0,Male,No,1,2119,white
+2107,Masters,2017,Pune,2,31.0,Male,No,2,2107,black
+3966,PHD,2013,New Delhi,3,42.0,Male,No,5,3966,white
+2766,Bachelors,2014,New Delhi,3,27.0,Male,No,4,2766,white
+1560,Bachelors,2013,Bangalore,3,27.0,Female,No,3,1560,white
+3187,Masters,2017,New Delhi,3,33.0,Male,No,1,3187,white
+20,Bachelors,2012,Bangalore,3,38.0,Male,No,0,20,yellow
+1581,Bachelors,2013,Pune,2,25.0,Female,No,2,1581,black
+3337,Bachelors,2015,Bangalore,2,41.0,Female,No,0,3337,black
+4301,Bachelors,2017,Bangalore,3,41.0,Male,No,0,4301,white
+549,Bachelors,2012,Bangalore,3,28.0,Male,No,4,549,white
+2173,Masters,2017,New Delhi,2,28.0,Male,No,5,2173,yellow
+738,Bachelors,2017,Bangalore,3,25.0,Male,No,2,738,white
+3874,Bachelors,2017,Pune,3,36.0,Male,No,5,3874,black
+1871,Bachelors,2014,Bangalore,3,26.0,Female,No,2,1871,white
+1302,Bachelors,2012,New Delhi,3,30.0,Female,No,4,1302,white
+2429,Bachelors,2013,Pune,2,28.0,Male,No,5,2429,black
+3289,Bachelors,2012,Bangalore,3,42.0,Male,No,5,3289,black
+1595,Bachelors,2017,Bangalore,3,26.0,Male,No,2,1595,black
+2942,Bachelors,2013,Bangalore,3,27.0,Male,No,4,2942,white
+2407,Bachelors,2017,Bangalore,3,31.0,Female,No,1,2407,white
+2899,Bachelors,2012,Bangalore,3,31.0,Male,Yes,2,2899,white
+241,Bachelors,2017,New Delhi,3,25.0,Male,No,2,241,white
+432,PHD,2013,New Delhi,3,28.0,Male,No,5,432,white
+622,Bachelors,2014,Pune,3,26.0,Female,No,3,622,white
+3276,Bachelors,2013,Bangalore,3,41.0,Female,No,4,3276,white
+1226,Bachelors,2016,Bangalore,3,28.0,Male,No,4,1226,white
+831,PHD,2016,New Delhi,3,26.0,Female,No,2,831,white
+3556,Masters,2018,New Delhi,3,32.0,Female,Yes,2,3556,black
+1660,Bachelors,2018,Bangalore,3,25.0,Female,No,2,1660,white
+2647,Bachelors,2013,Bangalore,3,31.0,Female,No,5,2647,white
+995,Bachelors,2012,Bangalore,3,28.0,Male,No,4,995,white
+119,Bachelors,2017,New Delhi,2,26.0,Male,No,3,119,white
+129,Masters,2013,Pune,1,25.0,Male,No,2,129,white
+3725,Bachelors,2015,New Delhi,2,36.0,Female,No,5,3725,white
+4294,Bachelors,2014,New Delhi,3,28.0,Female,No,4,4294,white
+514,Bachelors,2013,Pune,3,28.0,Male,No,5,514,white
+1478,Bachelors,2014,Bangalore,3,29.0,Female,No,5,1478,white
+1146,Bachelors,2017,Bangalore,3,29.0,Male,No,5,1146,white
+2380,Bachelors,2013,Bangalore,3,30.0,Male,No,1,2380,white
+2857,Bachelors,2015,Pune,2,28.0,Female,Yes,5,2857,black
+125,Masters,2014,Pune,3,25.0,Male,No,2,125,white
+2603,Bachelors,2013,Bangalore,3,27.0,Male,No,4,2603,black
+2806,Bachelors,2014,Bangalore,3,31.0,Male,No,3,2806,white
+2968,Bachelors,2014,Bangalore,1,29.0,Female,No,5,2968,white
+258,Bachelors,2013,New Delhi,1,29.0,Female,No,5,258,black
+4055,Bachelors,2012,Pune,3,25.0,Male,No,2,4055,black
+208,Masters,2017,Bangalore,3,29.0,Male,No,2,208,white
+2136,Masters,2015,New Delhi,2,28.0,Female,No,4,2136,white
+4262,Bachelors,2014,New Delhi,3,33.0,Male,No,5,4262,white
+1495,Bachelors,2015,Pune,3,29.0,Female,No,5,1495,white
+275,Bachelors,2013,Pune,3,29.0,Female,No,5,275,black
+2079,Bachelors,2017,Bangalore,3,28.0,Male,No,4,2079,black
+848,Bachelors,2013,Pune,2,29.0,Female,No,5,848,white
+3810,Bachelors,2012,New Delhi,3,36.0,Female,No,4,3810,white
+822,Bachelors,2017,Bangalore,3,27.0,Male,No,3,822,white
+3449,Bachelors,2014,Bangalore,3,36.0,Male,No,5,3449,white
+2357,Bachelors,2017,Pune,2,30.0,Male,No,1,2357,yellow
+1192,Bachelors,2014,Pune,3,25.0,Female,No,2,1192,white
+2313,Bachelors,2015,Pune,3,31.0,Female,No,1,2313,white
+2408,Bachelors,2017,Bangalore,3,29.0,Male,Yes,5,2408,white
+4237,Bachelors,2017,New Delhi,2,37.0,Female,No,1,4237,white
+3425,Bachelors,2012,Bangalore,3,33.0,Male,Yes,0,3425,white
+1854,Bachelors,2014,Bangalore,3,29.0,Male,Yes,5,1854,black
+537,Bachelors,2014,Bangalore,3,27.0,Male,Yes,4,537,white
+2066,Bachelors,2012,Bangalore,3,28.0,Male,No,4,2066,white
+3720,Masters,2015,Pune,3,37.0,Male,No,3,3720,white
+4652,Bachelors,2015,Bangalore,3,35.0,Male,Yes,4,4652,white
+3867,Masters,2018,New Delhi,3,37.0,Male,No,2,3867,white
+1930,Bachelors,2018,Bangalore,3,29.0,Male,Yes,5,1930,white
+3908,Bachelors,2016,Bangalore,3,32.0,Female,No,2,3908,black
+2064,Masters,2017,New Delhi,2,29.0,Female,No,5,2064,black
+621,Bachelors,2014,New Delhi,3,29.0,Female,No,3,621,white
+3618,Bachelors,2014,Bangalore,3,40.0,Male,No,5,3618,black
+491,Bachelors,2016,Pune,3,26.0,Male,No,2,491,white
+2816,Bachelors,2017,New Delhi,2,27.0,Female,No,4,2816,white
+2185,Bachelors,2012,Bangalore,3,29.0,Male,No,2,2185,white
+4421,Bachelors,2014,Bangalore,3,25.0,Male,No,2,4421,white
+3761,Bachelors,2015,Pune,1,36.0,Female,No,3,3761,black
+3656,Bachelors,2017,Bangalore,3,39.0,Male,No,4,3656,black
+3645,Bachelors,2015,Bangalore,3,39.0,Male,No,1,3645,black
+3340,Masters,2017,New Delhi,3,33.0,Male,No,2,3340,black
+683,Masters,2013,New Delhi,2,26.0,Male,No,2,683,black
+558,Bachelors,2014,Bangalore,3,29.0,Female,No,1,558,white
+522,Masters,2014,Bangalore,3,26.0,Female,No,2,522,white
+3506,Bachelors,2013,Pune,3,39.0,Male,No,2,3506,white
+1028,Masters,2018,New Delhi,3,26.0,Female,No,3,1028,yellow
+3067,Masters,2017,New Delhi,2,33.0,Male,No,4,3067,white
+1628,Bachelors,2017,Pune,3,30.0,Female,No,4,1628,black
+1667,Masters,2017,Pune,2,28.0,Male,No,5,1667,white
+4194,Bachelors,2018,Bangalore,3,34.0,Male,No,4,4194,white
+4189,Bachelors,2012,New Delhi,3,35.0,Female,No,2,4189,white
+3554,Bachelors,2014,Bangalore,3,40.0,Female,No,4,3554,white
+750,Bachelors,2012,Pune,2,28.0,Male,No,4,750,white
+1215,Bachelors,2016,Pune,2,29.0,Female,No,5,1215,white
+3670,Bachelors,2015,Pune,1,32.0,Female,No,3,3670,black
+3454,Bachelors,2017,Pune,2,34.0,Female,No,2,3454,black
+171,Bachelors,2015,Pune,3,26.0,Male,No,3,171,white
+2474,Bachelors,2018,Bangalore,3,28.0,Female,No,5,2474,white
+582,Bachelors,2016,Bangalore,3,27.0,Female,No,3,582,white
+3436,Bachelors,2015,Bangalore,3,38.0,Male,No,1,3436,black
+1406,Bachelors,2017,Bangalore,3,30.0,Female,Yes,5,1406,white
+2340,Bachelors,2018,Bangalore,3,27.0,Female,Yes,4,2340,white
+215,Bachelors,2014,New Delhi,3,27.0,Female,No,3,215,black
+4381,Bachelors,2013,Bangalore,3,23.0,Male,No,0,4381,white
+137,Bachelors,2012,Pune,3,29.0,Male,No,2,137,white
+27,Bachelors,2015,Bangalore,3,25.0,Male,No,1,27,black
+1527,Masters,2017,Pune,2,28.0,Male,No,5,1527,white
+1123,Bachelors,2014,Pune,3,25.0,Male,No,2,1123,white
+2245,Bachelors,2012,Pune,3,28.0,Male,No,5,2245,white
+4430,Bachelors,2016,Pune,3,34.0,Male,No,2,4430,white
+2464,Bachelors,2013,New Delhi,3,28.0,Male,No,4,2464,black
+4617,Bachelors,2012,Bangalore,3,40.0,Female,No,1,4617,white
+3621,Bachelors,2017,Pune,3,39.0,Male,Yes,1,3621,white
+1079,PHD,2018,New Delhi,3,28.0,Female,No,5,1079,white
+2270,Bachelors,2014,Bangalore,3,31.0,Female,No,1,2270,white
+4470,Masters,2017,New Delhi,2,26.0,Female,No,3,4470,white
+265,Masters,2016,New Delhi,1,29.0,Male,No,5,265,black
+1176,Masters,2017,Bangalore,2,26.0,Female,Yes,2,1176,white
+4280,Bachelors,2012,Bangalore,3,27.0,Male,No,3,4280,white
+360,Bachelors,2017,New Delhi,2,27.0,Male,No,4,360,white
+2711,Bachelors,2013,Bangalore,3,31.0,Male,No,1,2711,black
+3200,Bachelors,2015,Bangalore,3,38.0,Female,No,5,3200,black
+1025,Bachelors,2014,Bangalore,3,30.0,Male,No,4,1025,black
+4314,PHD,2013,New Delhi,3,25.0,Male,No,1,4314,black
+1387,Bachelors,2016,Bangalore,3,28.0,Female,No,5,1387,white
+1638,PHD,2018,New Delhi,3,28.0,Male,No,4,1638,white
+2031,Bachelors,2015,Bangalore,3,29.0,Female,No,5,2031,yellow
+4127,Bachelors,2014,New Delhi,3,35.0,Female,Yes,4,4127,black
+3866,Bachelors,2015,Pune,2,33.0,Female,No,2,3866,black
+4026,Bachelors,2012,Bangalore,3,31.0,Male,No,4,4026,yellow
+4107,Bachelors,2015,Bangalore,3,30.0,Male,No,0,4107,black
+278,Bachelors,2017,New Delhi,3,30.0,Female,No,3,278,white
+1974,Bachelors,2016,Bangalore,3,25.0,Male,No,2,1974,white
+4317,Bachelors,2012,Pune,3,32.0,Male,No,3,4317,white
+3747,PHD,2016,Pune,3,32.0,Female,No,4,3747,white
+1764,Bachelors,2013,New Delhi,1,26.0,Female,No,3,1764,white
+1544,Bachelors,2013,Pune,3,26.0,Female,No,2,1544,white
+3234,Bachelors,2015,Bangalore,1,37.0,Male,No,5,3234,white
+3166,Bachelors,2015,Pune,2,37.0,Female,No,1,3166,black
+981,Bachelors,2016,Bangalore,3,28.0,Male,Yes,4,981,black
+2227,Bachelors,2017,Pune,2,32.0,Female,No,2,2227,white
+839,Bachelors,2012,Pune,3,25.0,Male,No,2,839,white
+1182,Bachelors,2013,New Delhi,1,30.0,Female,No,5,1182,white
+1990,Bachelors,2015,New Delhi,2,30.0,Female,No,1,1990,white
+4058,Masters,2017,New Delhi,2,29.0,Female,No,5,4058,black
+1656,Bachelors,2014,Bangalore,3,28.0,Male,No,4,1656,black
+1330,Bachelors,2014,Bangalore,3,26.0,Male,Yes,3,1330,white
+1734,Bachelors,2015,Pune,2,27.0,Female,No,4,1734,white
+595,Bachelors,2018,Bangalore,1,29.0,Male,No,5,595,yellow
+1580,Bachelors,2013,Pune,3,29.0,Male,No,5,1580,black
+1643,Bachelors,2013,Bangalore,3,29.0,Male,Yes,1,1643,white
+3270,Bachelors,2017,Bangalore,3,35.0,Female,No,2,3270,white
+3611,Bachelors,2014,Pune,3,32.0,Male,No,3,3611,white
+2888,Bachelors,2013,Pune,3,28.0,Male,No,5,2888,black
+3625,Masters,2013,Pune,3,41.0,Male,No,2,3625,white
+1097,Bachelors,2013,New Delhi,3,28.0,Female,No,5,1097,black
+3832,Bachelors,2016,Bangalore,3,38.0,Male,Yes,2,3832,white
+280,Bachelors,2014,Bangalore,3,26.0,Male,No,3,280,white
+2344,Bachelors,2012,Bangalore,3,32.0,Female,No,2,2344,black
+2542,Bachelors,2012,Pune,3,31.0,Male,No,1,2542,white
+3575,Bachelors,2018,Bangalore,3,39.0,Male,Yes,1,3575,black
+3550,Masters,2017,New Delhi,2,38.0,Female,No,1,3550,white
+3777,Masters,2017,New Delhi,2,38.0,Female,No,2,3777,white
+3440,Masters,2015,Pune,1,39.0,Female,No,0,3440,white
+909,Bachelors,2013,Pune,3,25.0,Female,No,2,909,white
+368,Bachelors,2014,Bangalore,3,26.0,Female,No,3,368,black
+1242,Bachelors,2015,Bangalore,1,26.0,Male,No,3,1242,black
+4223,Masters,2017,Pune,2,39.0,Female,No,2,4223,black
+270,Masters,2017,Pune,2,27.0,Female,No,4,270,yellow
+3589,Bachelors,2016,Bangalore,3,39.0,Female,No,1,3589,white
+1715,Masters,2017,New Delhi,2,29.0,Female,No,2,1715,white
+1787,Masters,2013,New Delhi,3,30.0,Female,No,2,1787,white
+2117,Bachelors,2016,Pune,3,28.0,Male,No,4,2117,black
+1773,Bachelors,2013,Pune,3,27.0,Male,No,4,1773,black
+2983,Masters,2014,New Delhi,3,27.0,Male,Yes,4,2983,white
+954,Masters,2017,Pune,2,30.0,Male,No,3,954,white
+1923,Bachelors,2013,Pune,2,28.0,Female,No,5,1923,white
+3213,Bachelors,2013,New Delhi,3,39.0,Female,No,0,3213,white
+3678,Masters,2013,New Delhi,3,42.0,Female,Yes,2,3678,white
+1346,Bachelors,2013,Bangalore,3,30.0,Female,No,0,1346,white
+2188,Bachelors,2015,Bangalore,3,30.0,Male,No,1,2188,white
+1324,Bachelors,2015,Pune,3,25.0,Male,No,2,1324,black
+1521,PHD,2016,New Delhi,3,29.0,Female,No,5,1521,black
+1389,Masters,2017,New Delhi,2,28.0,Male,No,4,1389,white
+4150,Bachelors,2015,Bangalore,3,28.0,Male,No,4,4150,white
+3855,Bachelors,2017,New Delhi,2,43.0,Female,No,2,3855,white
+4313,Bachelors,2015,Pune,3,38.0,Female,No,1,4313,yellow
+1022,Bachelors,2012,Bangalore,3,27.0,Male,No,4,1022,white
+1583,Bachelors,2012,Bangalore,3,27.0,Male,No,3,1583,yellow
+1082,Bachelors,2012,Bangalore,3,30.0,Male,No,5,1082,white
+1290,Bachelors,2017,New Delhi,3,26.0,Female,No,2,1290,white
+4647,Bachelors,2016,Pune,3,31.0,Male,No,2,4647,white
+3073,Bachelors,2017,Bangalore,3,33.0,Male,No,1,3073,white
+929,Masters,2012,New Delhi,3,29.0,Male,No,2,929,white
+3140,Masters,2017,Pune,2,41.0,Female,No,3,3140,white
+3927,Masters,2017,New Delhi,3,43.0,Male,No,3,3927,white
+1125,Bachelors,2012,New Delhi,3,28.0,Male,No,4,1125,yellow
+2846,Masters,2017,New Delhi,2,29.0,Female,No,2,2846,black
+3647,Bachelors,2014,Pune,3,34.0,Male,Yes,2,3647,white
+4346,Bachelors,2017,Pune,2,39.0,Female,No,1,4346,yellow
+72,Bachelors,2014,Pune,3,26.0,Female,No,3,72,yellow
+385,Bachelors,2012,Bangalore,3,26.0,Male,No,2,385,black
+2108,Bachelors,2012,Bangalore,3,32.0,Male,No,2,2108,white
+1694,Bachelors,2018,Bangalore,3,28.0,Male,No,4,1694,white
+849,Bachelors,2015,Pune,3,28.0,Male,No,4,849,white
+3145,Bachelors,2017,Bangalore,3,36.0,Male,No,5,3145,black
+2072,Bachelors,2018,Bangalore,3,31.0,Male,No,2,2072,white
+1686,Bachelors,2018,Bangalore,3,26.0,Female,No,3,1686,white
+3706,Bachelors,2017,Bangalore,3,37.0,Male,No,2,3706,white
+742,Masters,2014,New Delhi,3,29.0,Male,No,5,742,white
+2789,Bachelors,2013,Pune,1,31.0,Female,Yes,1,2789,white
+1996,Bachelors,2013,Pune,3,27.0,Male,No,4,1996,white
+273,Masters,2013,New Delhi,3,27.0,Male,No,3,273,black
+3277,Bachelors,2018,Pune,2,36.0,Female,No,2,3277,white
+895,Bachelors,2017,New Delhi,3,29.0,Male,No,5,895,white
+1685,Bachelors,2014,Pune,3,26.0,Male,No,3,1685,white
+2890,Masters,2017,New Delhi,3,30.0,Male,No,2,2890,white
+1522,Masters,2014,Bangalore,3,30.0,Female,No,4,1522,white
+3988,Bachelors,2016,Bangalore,3,40.0,Female,No,7,3988,white
+45,Bachelors,2014,Bangalore,3,24.0,Female,No,1,45,white
+497,Bachelors,2016,Bangalore,3,29.0,Female,No,3,497,white
+1058,Bachelors,2016,Bangalore,3,29.0,Male,Yes,4,1058,white
+4057,Masters,2018,Bangalore,3,32.0,Male,Yes,2,4057,white
+1980,PHD,2018,Bangalore,3,28.0,Male,No,4,1980,black
+3540,Bachelors,2012,Bangalore,3,34.0,Male,No,4,3540,white
+1286,Masters,2014,New Delhi,3,28.0,Male,No,5,1286,white
+625,Bachelors,2015,Bangalore,3,26.0,Male,No,3,625,black
+739,Masters,2014,New Delhi,3,26.0,Male,No,2,739,white
+4409,PHD,2018,New Delhi,3,25.0,Male,No,2,4409,white
+4431,Bachelors,2016,Pune,2,31.0,Female,No,4,4431,black
+2601,Bachelors,2016,Bangalore,3,31.0,Male,No,3,2601,white
+2132,Masters,2017,New Delhi,3,31.0,Male,Yes,2,2132,white
+3493,Bachelors,2015,Pune,3,39.0,Female,No,2,3493,white
+4424,Bachelors,2015,Pune,3,40.0,Female,No,2,4424,white
+495,Masters,2014,New Delhi,3,29.0,Male,No,5,495,white
+3822,Bachelors,2014,Bangalore,3,37.0,Female,No,0,3822,white
+874,Bachelors,2015,Pune,2,28.0,Female,No,4,874,white
+4108,Bachelors,2012,Bangalore,3,40.0,Male,No,3,4108,white
+307,Bachelors,2012,Pune,3,28.0,Male,No,5,307,white
+2516,Masters,2013,Bangalore,3,32.0,Male,No,5,2516,white
+3011,Bachelors,2018,Bangalore,3,34.0,Female,No,3,3011,white
+563,Bachelors,2012,Bangalore,3,27.0,Male,No,3,563,black
+2927,Bachelors,2017,New Delhi,3,31.0,Female,No,3,2927,white
+2696,Masters,2017,Bangalore,2,31.0,Male,No,3,2696,white
+2576,Masters,2017,New Delhi,2,30.0,Female,No,2,2576,white
+95,PHD,2018,Bangalore,3,28.0,Male,No,4,95,white
+3182,Masters,2015,Bangalore,3,34.0,Female,No,2,3182,white
+3249,Bachelors,2015,Bangalore,1,42.0,Male,No,2,3249,white
+1400,Bachelors,2014,Bangalore,3,28.0,Male,No,4,1400,white
+1485,Bachelors,2012,Bangalore,3,26.0,Male,No,2,1485,black
+3320,Masters,2017,Bangalore,3,35.0,Female,No,4,3320,white
+464,Bachelors,2017,Bangalore,3,30.0,Male,Yes,3,464,white
+185,Masters,2017,Pune,2,25.0,Male,No,2,185,white
+4440,Bachelors,2012,New Delhi,3,36.0,Female,No,5,4440,white
+2010,Bachelors,2014,Pune,3,31.0,Male,No,2,2010,white
+4093,Masters,2018,New Delhi,3,31.0,Male,No,2,4093,white
+1726,Bachelors,2014,New Delhi,3,26.0,Female,No,2,1726,white
+3632,Bachelors,2012,Bangalore,3,37.0,Male,Yes,0,3632,white
+4365,PHD,2013,Bangalore,3,28.0,Male,No,4,4365,black
+3489,Bachelors,2017,Bangalore,3,36.0,Male,Yes,0,3489,white
+1946,Masters,2015,Bangalore,3,28.0,Female,No,4,1946,white
+131,Bachelors,2013,Bangalore,3,29.0,Male,No,1,131,white
+1752,Bachelors,2012,New Delhi,3,30.0,Male,No,5,1752,white
+603,Bachelors,2018,Bangalore,3,30.0,Female,No,3,603,white
+4322,Bachelors,2018,Bangalore,3,37.0,Female,No,2,4322,white
+2363,Bachelors,2016,Pune,3,30.0,Male,No,2,2363,white
+4217,Bachelors,2016,Bangalore,3,34.0,Female,No,1,4217,white
+4193,Bachelors,2015,Bangalore,3,31.0,Male,No,2,4193,white
+3472,Bachelors,2018,Bangalore,3,43.0,Female,No,2,3472,black
+1530,Bachelors,2013,Pune,3,27.0,Male,No,3,1530,white
+4271,Bachelors,2013,Bangalore,3,31.0,Male,No,4,4271,white
+3872,PHD,2018,New Delhi,3,41.0,Male,No,3,3872,white
+4645,Masters,2017,Pune,2,32.0,Female,No,2,4645,white
+3793,Bachelors,2015,Bangalore,3,42.0,Male,No,5,3793,black
+3546,Masters,2018,Pune,3,33.0,Male,No,2,3546,black
+1470,Bachelors,2015,Pune,2,28.0,Female,No,4,1470,white
+3798,Masters,2017,New Delhi,1,36.0,Male,No,5,3798,white
+3791,Bachelors,2016,Bangalore,3,36.0,Male,Yes,1,3791,black
+1516,PHD,2016,New Delhi,3,25.0,Female,No,2,1516,white
+2632,Bachelors,2017,Pune,3,29.0,Male,No,5,2632,black
+1134,Bachelors,2014,Pune,3,29.0,Male,No,5,1134,white
+885,Bachelors,2018,Bangalore,3,29.0,Female,No,3,885,white
+3572,Bachelors,2016,Bangalore,3,34.0,Male,No,4,3572,white
+3104,Bachelors,2014,Bangalore,3,34.0,Male,No,4,3104,white
+4296,Bachelors,2016,Bangalore,3,32.0,Male,No,0,4296,white
+4354,Masters,2017,Pune,2,29.0,Male,No,5,4354,white
+4583,Bachelors,2016,Pune,3,37.0,Male,Yes,3,4583,black
+1693,Bachelors,2016,Pune,3,27.0,Male,No,4,1693,white
+1740,Bachelors,2017,Bangalore,3,28.0,Male,No,5,1740,white
+3735,Bachelors,2012,Pune,2,37.0,Female,No,5,3735,white
+3134,Bachelors,2016,Pune,3,33.0,Male,No,1,3134,white
+2842,Bachelors,2017,Bangalore,3,30.0,Female,No,2,2842,white
+816,Bachelors,2017,Bangalore,3,26.0,Female,No,2,816,white
+328,Bachelors,2013,Bangalore,3,29.0,Male,No,2,328,white
+3544,Bachelors,2014,Bangalore,3,39.0,Male,No,4,3544,white
+121,PHD,2015,New Delhi,3,28.0,Male,No,4,121,white
+935,Masters,2018,Pune,3,28.0,Male,No,5,935,black
+4192,Masters,2017,Bangalore,2,37.0,Female,No,0,4192,white
+3936,Bachelors,2017,Bangalore,3,38.0,Male,No,3,3936,white
+4181,Bachelors,2014,New Delhi,3,36.0,Female,No,5,4181,white
+334,Bachelors,2015,New Delhi,2,29.0,Female,No,5,334,black
+1919,Bachelors,2017,Bangalore,3,25.0,Male,No,2,1919,white
+4644,Bachelors,2015,Pune,3,33.0,Female,Yes,1,4644,white
+363,Bachelors,2015,New Delhi,3,25.0,Female,No,2,363,white
+4498,Bachelors,2013,Pune,2,38.0,Male,Yes,5,4498,white
+4001,Bachelors,2012,Bangalore,3,33.0,Male,No,0,4001,white
+2926,Bachelors,2015,Bangalore,3,31.0,Male,No,5,2926,white
+2141,Masters,2017,Pune,3,31.0,Male,No,2,2141,white
+1413,Bachelors,2015,Pune,3,29.0,Female,Yes,5,1413,white
+765,Bachelors,2013,New Delhi,1,26.0,Female,No,2,765,black
+3526,Bachelors,2015,Bangalore,3,32.0,Female,No,4,3526,white
+4441,Bachelors,2016,Bangalore,3,35.0,Male,No,4,4441,white
+2463,Bachelors,2013,Bangalore,3,28.0,Male,No,4,2463,black
+1150,Bachelors,2018,Bangalore,3,26.0,Male,No,3,1150,white
+1589,Bachelors,2014,Bangalore,3,27.0,Male,No,3,1589,white
+1680,Masters,2017,Bangalore,1,28.0,Male,No,4,1680,white
+810,Bachelors,2017,New Delhi,2,27.0,Female,No,3,810,white
+4286,Bachelors,2015,New Delhi,3,23.0,Male,No,0,4286,white
+1239,Bachelors,2014,Pune,3,26.0,Male,No,2,1239,white
+551,Bachelors,2013,Bangalore,1,29.0,Male,No,3,551,white
+1061,Bachelors,2012,Bangalore,3,29.0,Male,No,5,1061,white
+842,Bachelors,2013,New Delhi,3,26.0,Male,No,2,842,white
+3542,Bachelors,2016,Bangalore,3,38.0,Male,No,2,3542,white
+1277,Bachelors,2014,Bangalore,3,26.0,Female,No,2,1277,white
+2948,Bachelors,2012,Bangalore,3,29.0,Female,No,3,2948,white
+2206,Bachelors,2013,Bangalore,2,32.0,Female,No,1,2206,white
+4028,Bachelors,2017,Bangalore,2,24.0,Male,No,1,4028,white
+2229,Bachelors,2014,Bangalore,3,30.0,Male,No,2,2229,black
+4631,Bachelors,2018,Bangalore,3,34.0,Male,Yes,1,4631,black
+2401,Bachelors,2012,Bangalore,3,30.0,Female,No,1,2401,black
+586,PHD,2018,Bangalore,3,28.0,Male,No,4,586,white
+4249,Bachelors,2014,Pune,3,37.0,Female,No,5,4249,white
+3424,Bachelors,2013,Bangalore,3,40.0,Male,No,2,3424,white
+671,Bachelors,2016,New Delhi,3,28.0,Female,No,5,671,white
+313,Bachelors,2017,Bangalore,1,27.0,Male,No,3,313,white
+907,Bachelors,2017,Bangalore,3,30.0,Male,Yes,1,907,white
+2600,Bachelors,2018,Bangalore,3,31.0,Male,No,0,2600,white
+2287,Masters,2013,New Delhi,3,27.0,Female,No,4,2287,black
+1205,Bachelors,2017,Pune,3,28.0,Female,No,5,1205,white
+3399,Bachelors,2016,Bangalore,3,40.0,Male,No,1,3399,black
+1975,Bachelors,2016,New Delhi,3,25.0,Male,Yes,2,1975,white
+3513,Masters,2013,New Delhi,3,41.0,Female,No,2,3513,white
+1817,Bachelors,2017,Bangalore,3,25.0,Female,No,2,1817,white
+1833,Bachelors,2014,Pune,3,28.0,Male,No,4,1833,black
+3688,Masters,2017,Bangalore,3,33.0,Female,No,4,3688,black
+749,Bachelors,2013,Bangalore,3,28.0,Female,No,4,749,white
+4061,Bachelors,2015,Bangalore,3,31.0,Male,No,2,4061,white
+2555,Bachelors,2015,Bangalore,3,28.0,Male,No,4,2555,black
+3979,Masters,2017,New Delhi,2,42.0,Female,Yes,2,3979,white
+1818,Masters,2017,New Delhi,2,28.0,Female,No,4,1818,white
+4298,Bachelors,2018,Pune,3,33.0,Female,No,1,4298,black
+976,Bachelors,2014,Pune,3,27.0,Male,No,4,976,white
+3373,Bachelors,2014,Pune,3,35.0,Female,No,2,3373,white
+2,Bachelors,2014,New Delhi,3,40.0,Female,No,2,2,white
+2479,Bachelors,2015,Bangalore,3,30.0,Male,No,2,2479,white
+1700,Bachelors,2017,Pune,3,28.0,Male,No,4,1700,black
+3952,Bachelors,2012,Bangalore,3,41.0,Male,No,4,3952,white
+15,Bachelors,2017,Bangalore,1,31.0,Male,No,3,15,white
+819,Bachelors,2016,New Delhi,3,30.0,Male,No,1,819,white
+3790,Bachelors,2014,New Delhi,3,40.0,Female,No,0,3790,black
+1100,Bachelors,2017,New Delhi,3,27.0,Female,No,4,1100,white
+4444,Bachelors,2014,Bangalore,3,30.0,Male,No,2,4444,black
+3864,Bachelors,2012,Bangalore,3,36.0,Male,No,2,3864,white
+2896,Bachelors,2016,Bangalore,3,31.0,Female,No,0,2896,white
+1167,Bachelors,2016,Bangalore,3,29.0,Female,No,5,1167,white
+4638,Bachelors,2013,Bangalore,3,28.0,Male,No,4,4638,white
+3253,Bachelors,2012,Bangalore,3,41.0,Male,No,0,3253,white
+1306,Bachelors,2017,Bangalore,3,27.0,Male,No,3,1306,white
+1177,Bachelors,2014,Bangalore,3,29.0,Male,No,2,1177,white
+4164,Masters,2017,New Delhi,2,25.0,Female,No,1,4164,white
+892,Bachelors,2017,Bangalore,3,26.0,Female,No,3,892,white
+1568,Bachelors,2018,Pune,3,29.0,Female,No,5,1568,white
+2261,Bachelors,2012,Bangalore,3,27.0,Male,No,4,2261,white
+521,Masters,2015,Pune,2,26.0,Female,No,2,521,white
+663,Bachelors,2017,New Delhi,2,25.0,Female,No,2,663,white
+1543,Bachelors,2015,New Delhi,3,26.0,Female,No,2,1543,white
+3931,Bachelors,2014,Bangalore,3,36.0,Male,No,4,3931,white
+2802,Masters,2013,Bangalore,1,31.0,Female,No,2,2802,white
+2433,Masters,2018,New Delhi,1,28.0,Female,No,4,2433,black
+3,Masters,2016,Bangalore,3,28.0,Male,No,5,3,white
+2605,Bachelors,2013,Pune,3,32.0,Male,No,4,2605,white
+2496,Bachelors,2012,Bangalore,1,31.0,Female,No,0,2496,white
+218,Bachelors,2013,Pune,2,26.0,Female,No,3,218,white
+824,Masters,2014,New Delhi,3,27.0,Female,No,3,824,white
+3484,Masters,2014,Bangalore,3,39.0,Female,No,4,3484,black
+1977,Bachelors,2014,Bangalore,3,26.0,Male,No,3,1977,white
+3902,Bachelors,2015,Pune,2,41.0,Female,Yes,0,3902,white
+1612,Masters,2017,New Delhi,2,26.0,Female,No,3,1612,white
+538,Masters,2017,New Delhi,2,26.0,Female,No,3,538,white
+3393,Bachelors,2014,Bangalore,3,33.0,Male,No,5,3393,white
+122,Bachelors,2015,New Delhi,3,26.0,Female,No,3,122,black
+3248,Bachelors,2017,Bangalore,3,36.0,Female,No,4,3248,black
+301,Bachelors,2014,New Delhi,3,30.0,Female,No,1,301,black
+502,Bachelors,2012,Bangalore,3,27.0,Male,Yes,3,502,white
+4130,Bachelors,2015,Pune,2,26.0,Female,No,3,4130,white
+1394,Bachelors,2017,Pune,2,30.0,Male,No,1,1394,black
+3109,Bachelors,2015,Bangalore,3,41.0,Female,No,0,3109,white
+2212,Bachelors,2012,New Delhi,3,28.0,Female,No,4,2212,black
+3059,Bachelors,2015,Bangalore,3,40.0,Male,No,3,3059,white
+3975,Bachelors,2014,Bangalore,3,40.0,Male,No,7,3975,black
+3428,Bachelors,2017,Bangalore,2,39.0,Female,No,5,3428,black
+454,PHD,2012,Pune,3,26.0,Male,No,2,454,black
+1572,Bachelors,2016,Pune,2,30.0,Female,No,3,1572,white
+204,PHD,2013,New Delhi,3,26.0,Male,No,2,204,white
+3100,Bachelors,2015,Pune,2,35.0,Female,No,2,3100,white
+2723,Bachelors,2016,Pune,3,28.0,Male,No,4,2723,white
+3023,Bachelors,2014,Bangalore,3,37.0,Male,No,1,3023,white
+499,Bachelors,2013,Bangalore,3,28.0,Male,Yes,4,499,white
+1708,Bachelors,2017,New Delhi,3,27.0,Female,No,3,1708,white
+3470,Bachelors,2015,Bangalore,3,40.0,Male,Yes,4,3470,white
+475,Bachelors,2015,Pune,2,28.0,Female,No,4,475,black
+799,Bachelors,2013,Bangalore,3,25.0,Male,No,2,799,white
+1625,Masters,2017,Pune,1,30.0,Male,No,0,1625,black
+263,Bachelors,2012,Pune,1,27.0,Male,No,4,263,black
+1172,Bachelors,2015,Bangalore,1,26.0,Male,No,2,1172,white
+1071,Bachelors,2013,Bangalore,3,26.0,Female,No,3,1071,black
+3631,Bachelors,2015,Bangalore,3,32.0,Male,No,4,3631,white
+2106,Bachelors,2013,Bangalore,3,29.0,Male,No,5,2106,black
+2146,Masters,2016,New Delhi,3,27.0,Male,No,4,2146,white
+1160,Bachelors,2012,New Delhi,3,26.0,Male,No,2,1160,black
+4183,Bachelors,2016,Bangalore,3,40.0,Male,No,4,4183,white
+3398,Bachelors,2018,Bangalore,3,33.0,Male,Yes,1,3398,black
+2871,Bachelors,2017,New Delhi,2,32.0,Male,No,4,2871,black
+286,Bachelors,2018,Bangalore,3,28.0,Male,No,4,286,yellow
+1368,PHD,2012,Pune,3,28.0,Male,No,5,1368,black
+4315,Bachelors,2018,Bangalore,3,37.0,Male,No,3,4315,white
+2195,Bachelors,2013,New Delhi,3,27.0,Female,No,4,2195,white
+3840,Bachelors,2016,Bangalore,3,38.0,Female,No,4,3840,white
+4201,Masters,2013,Bangalore,2,31.0,Male,No,1,4201,white
+2377,Bachelors,2017,Bangalore,3,29.0,Male,No,2,2377,white
+639,Bachelors,2014,Bangalore,3,28.0,Male,No,4,639,black
+4023,Bachelors,2013,New Delhi,2,36.0,Female,No,1,4023,white
+1641,Bachelors,2013,Bangalore,3,25.0,Male,No,2,1641,white
+2559,Bachelors,2014,New Delhi,3,31.0,Female,No,2,2559,white
+4490,Bachelors,2013,Pune,1,41.0,Female,Yes,0,4490,white
+3833,Bachelors,2015,Bangalore,3,38.0,Male,No,2,3833,white
+2654,Bachelors,2015,Bangalore,3,29.0,Male,No,5,2654,yellow
+866,Masters,2017,New Delhi,2,27.0,Male,No,3,866,white
+3422,PHD,2013,Bangalore,2,43.0,Male,No,2,3422,black
+3047,Bachelors,2017,Bangalore,3,38.0,Male,No,5,3047,white
+1087,Bachelors,2013,Bangalore,3,27.0,Male,No,4,1087,white
+4492,Masters,2017,Pune,2,35.0,Male,Yes,2,4492,white
+2224,Masters,2017,Pune,2,29.0,Male,Yes,5,2224,black
+4261,PHD,2016,New Delhi,3,34.0,Male,No,0,4261,black
+3151,Bachelors,2016,Pune,2,34.0,Female,No,0,3151,white
+957,Masters,2015,Pune,1,27.0,Female,No,4,957,white
+4616,Masters,2015,New Delhi,3,41.0,Female,No,5,4616,white
+2537,Bachelors,2013,Bangalore,3,28.0,Male,No,4,2537,white
+2676,Bachelors,2018,Bangalore,3,28.0,Male,Yes,5,2676,black
+1902,Bachelors,2017,Bangalore,3,27.0,Male,No,3,1902,white
+1004,Bachelors,2017,Bangalore,3,27.0,Male,No,3,1004,white
+2612,Bachelors,2017,New Delhi,3,27.0,Female,No,4,2612,white
+4039,Masters,2018,New Delhi,3,40.0,Female,No,2,4039,white
+862,Bachelors,2018,Bangalore,3,26.0,Male,No,2,862,white
+2548,Bachelors,2012,New Delhi,3,28.0,Male,No,4,2548,white
+1792,Bachelors,2013,New Delhi,3,27.0,Female,No,4,1792,white
+3494,Bachelors,2017,Bangalore,2,34.0,Female,No,2,3494,white
+3507,Bachelors,2015,Pune,2,37.0,Female,Yes,1,3507,white
+928,Bachelors,2014,Bangalore,3,28.0,Male,No,5,928,black
+868,Bachelors,2012,Bangalore,3,28.0,Male,No,4,868,black
+30,PHD,2013,New Delhi,3,26.0,Male,No,3,30,white
+4187,Bachelors,2014,Pune,1,39.0,Female,No,4,4187,white
+248,Bachelors,2016,Pune,3,28.0,Male,No,4,248,white
+2155,Bachelors,2015,New Delhi,3,27.0,Female,No,4,2155,white
+2724,Masters,2013,Pune,3,27.0,Male,No,4,2724,black
+2234,Bachelors,2013,Bangalore,1,32.0,Male,No,1,2234,white
+3926,Masters,2017,New Delhi,2,41.0,Female,No,2,3926,white
+1063,Bachelors,2014,Bangalore,3,28.0,Female,No,5,1063,white
+1492,Bachelors,2016,Bangalore,3,29.0,Male,No,5,1492,white
+4621,Bachelors,2015,Bangalore,3,32.0,Male,No,5,4621,white
+297,Bachelors,2016,Bangalore,3,26.0,Female,No,2,297,black
+2257,Bachelors,2014,Pune,1,28.0,Female,No,4,2257,black
+3901,Bachelors,2014,Bangalore,3,38.0,Male,No,5,3901,white
+3801,Bachelors,2014,Bangalore,3,33.0,Male,No,2,3801,yellow
+2813,Bachelors,2017,Bangalore,3,30.0,Male,No,5,2813,white
+4548,PHD,2012,New Delhi,3,32.0,Male,No,4,4548,black
+4364,Bachelors,2015,Pune,2,27.0,Male,No,3,4364,black
+2482,PHD,2012,New Delhi,1,31.0,Female,No,2,2482,white
+305,PHD,2015,New Delhi,3,27.0,Female,No,3,305,white
+857,Bachelors,2017,New Delhi,2,30.0,Male,No,1,857,white
+2318,Bachelors,2015,Bangalore,3,32.0,Male,No,1,2318,white
+3519,Bachelors,2017,New Delhi,2,39.0,Female,No,5,3519,white
+3370,Masters,2017,Pune,2,37.0,Male,No,2,3370,white
+2862,Masters,2017,Pune,2,30.0,Male,No,2,2862,white
+3407,Bachelors,2013,Bangalore,3,32.0,Male,No,0,3407,white
+3356,Masters,2017,New Delhi,3,38.0,Female,No,3,3356,black
+3687,Bachelors,2015,Pune,3,39.0,Male,No,5,3687,white
+809,Masters,2017,New Delhi,2,30.0,Female,No,2,809,black
+3222,Bachelors,2013,Bangalore,3,35.0,Male,No,3,3222,black
+2449,Bachelors,2016,Pune,3,28.0,Female,No,4,2449,white
+1487,Bachelors,2015,Bangalore,3,28.0,Female,Yes,5,1487,black
+3920,Bachelors,2015,Bangalore,3,42.0,Male,No,4,3920,white
+3095,Bachelors,2012,Pune,3,41.0,Male,No,2,3095,white
+2822,Bachelors,2017,Bangalore,3,31.0,Female,No,5,2822,white
+2128,Bachelors,2015,Bangalore,3,31.0,Female,No,2,2128,white
+480,Masters,2017,New Delhi,2,28.0,Male,No,5,480,white
+4599,Bachelors,2013,Bangalore,3,38.0,Male,No,0,4599,white
+4318,Bachelors,2015,Bangalore,3,23.0,Male,No,0,4318,white
+2151,Bachelors,2016,Bangalore,3,30.0,Male,No,1,2151,yellow
+3677,Bachelors,2014,Bangalore,1,35.0,Female,No,5,3677,black
+4634,Bachelors,2016,New Delhi,1,39.0,Female,No,2,4634,white
+473,Bachelors,2013,New Delhi,3,25.0,Female,No,2,473,black
+3884,Bachelors,2015,Pune,3,34.0,Female,No,3,3884,black
+4234,Bachelors,2016,Pune,3,24.0,Male,No,0,4234,white
+3402,Bachelors,2016,Bangalore,3,38.0,Female,No,1,3402,white
+2912,Bachelors,2016,New Delhi,3,27.0,Female,No,4,2912,black
+1139,Bachelors,2014,Bangalore,3,29.0,Female,No,3,1139,black
+676,Bachelors,2018,Pune,3,30.0,Female,No,1,676,white
+1709,Bachelors,2018,Bangalore,3,27.0,Male,No,3,1709,black
+1828,Masters,2013,New Delhi,3,29.0,Male,No,1,1828,white
+1499,PHD,2013,New Delhi,3,28.0,Female,No,5,1499,white
+350,Bachelors,2015,Pune,3,27.0,Female,No,4,350,white
+1420,Bachelors,2014,Bangalore,3,29.0,Female,No,5,1420,white
+3603,Masters,2017,New Delhi,1,37.0,Female,No,0,3603,white
+188,Bachelors,2017,New Delhi,2,28.0,Male,No,4,188,black
+646,Bachelors,2018,Bangalore,3,26.0,Female,No,2,646,white
+4567,Bachelors,2017,Pune,3,29.0,Male,No,3,4567,white
+3520,Masters,2017,New Delhi,3,35.0,Female,No,2,3520,white
+958,Masters,2013,Pune,3,27.0,Male,No,4,958,black
+3271,Bachelors,2017,Bangalore,3,42.0,Male,No,1,3271,white
+192,Bachelors,2013,Bangalore,3,29.0,Male,No,1,192,white
+2400,Bachelors,2016,Bangalore,3,29.0,Male,No,5,2400,black
+3390,Bachelors,2012,Bangalore,3,41.0,Male,No,3,3390,black
+3752,Masters,2017,Pune,2,41.0,Male,No,2,3752,black
+3198,Bachelors,2012,Bangalore,1,33.0,Male,No,1,3198,white
+982,Bachelors,2015,Pune,3,26.0,Female,No,3,982,white
+374,Bachelors,2016,Bangalore,3,29.0,Female,No,3,374,white
+3446,Bachelors,2012,New Delhi,3,34.0,Male,No,3,3446,white
+2307,Bachelors,2015,Bangalore,3,29.0,Male,No,5,2307,white
+2127,Masters,2012,New Delhi,1,30.0,Female,No,1,2127,yellow
+1254,Bachelors,2016,Bangalore,3,27.0,Male,No,4,1254,white
+3705,Masters,2015,Bangalore,3,37.0,Male,No,0,3705,white
+3353,Bachelors,2012,New Delhi,3,37.0,Female,No,2,3353,white
+1991,Bachelors,2012,Bangalore,3,31.0,Male,No,1,1991,black
+2798,Bachelors,2013,Bangalore,3,30.0,Male,No,1,2798,black
+2924,Bachelors,2017,Bangalore,3,31.0,Male,No,1,2924,white
+1471,Bachelors,2015,Pune,2,28.0,Female,No,5,1471,white
+3994,Bachelors,2017,New Delhi,3,26.0,Female,No,3,3994,white
+2391,Bachelors,2013,Pune,2,28.0,Male,No,4,2391,black
+3383,Bachelors,2013,Bangalore,3,33.0,Male,No,1,3383,white
+3017,Bachelors,2017,Bangalore,3,43.0,Male,Yes,3,3017,black
+3027,Bachelors,2018,Pune,3,41.0,Male,Yes,3,3027,white
+3255,Masters,2015,New Delhi,3,40.0,Female,No,0,3255,white
+576,Bachelors,2017,Pune,2,26.0,Female,No,3,576,white
+744,Bachelors,2014,Pune,3,26.0,Male,No,3,744,white
+884,Bachelors,2014,Bangalore,3,27.0,Male,No,4,884,black
+1873,Bachelors,2017,New Delhi,2,25.0,Female,No,2,1873,white
+4140,Bachelors,2016,Bangalore,3,26.0,Female,No,3,4140,white
+1903,Bachelors,2013,New Delhi,2,25.0,Female,No,2,1903,white
+948,Bachelors,2017,Bangalore,3,27.0,Male,Yes,3,948,white
+989,Bachelors,2018,Bangalore,3,29.0,Female,No,5,989,black
+1592,Bachelors,2014,Pune,2,29.0,Female,No,3,1592,white
+3954,Bachelors,2016,Pune,3,42.0,Male,No,5,3954,white
+735,Bachelors,2017,New Delhi,1,27.0,Female,No,3,735,white
+186,Masters,2016,New Delhi,3,26.0,Female,No,3,186,white
+3638,Bachelors,2018,Bangalore,3,40.0,Male,No,0,3638,white
+2736,Bachelors,2016,Bangalore,3,30.0,Male,Yes,2,2736,white
+85,Bachelors,2016,Pune,2,37.0,Male,No,0,85,white
+1350,Bachelors,2012,Bangalore,3,27.0,Female,No,4,1350,white
+1504,Bachelors,2016,Bangalore,3,28.0,Male,No,4,1504,black
+198,Bachelors,2015,Bangalore,3,29.0,Male,Yes,2,198,white
+1459,Bachelors,2017,Bangalore,3,26.0,Male,No,2,1459,white
+1831,Bachelors,2016,New Delhi,3,28.0,Female,No,4,1831,white
+2560,Masters,2015,Pune,3,30.0,Female,No,4,2560,white
+1916,Bachelors,2017,New Delhi,3,28.0,Male,No,5,1916,white
+2057,Masters,2017,New Delhi,2,32.0,Male,No,2,2057,black
+2988,Bachelors,2015,Pune,3,30.0,Male,No,0,2988,black
+2112,Bachelors,2015,Pune,3,31.0,Female,No,2,2112,white
+3257,Bachelors,2016,Pune,3,42.0,Male,No,4,3257,white
+140,Masters,2013,New Delhi,3,28.0,Male,No,5,140,black
+700,Masters,2017,New Delhi,2,27.0,Female,No,4,700,white
+596,Bachelors,2016,Pune,3,26.0,Male,No,2,596,white
+4628,Bachelors,2013,Bangalore,3,41.0,Female,No,5,4628,white
+294,Masters,2013,New Delhi,3,27.0,Male,No,4,294,white
+4307,PHD,2018,New Delhi,3,39.0,Female,No,5,4307,white
+82,Bachelors,2016,Bangalore,3,39.0,Male,No,5,82,white
+3574,Bachelors,2013,Bangalore,3,36.0,Male,No,5,3574,white
+1128,Bachelors,2015,Pune,2,27.0,Female,No,4,1128,white
+1293,Bachelors,2017,Bangalore,3,29.0,Male,Yes,3,1293,white
+201,Bachelors,2014,Bangalore,3,27.0,Male,No,3,201,white
+84,Bachelors,2015,Bangalore,3,29.0,Female,Yes,5,84,white
+60,Masters,2013,New Delhi,3,31.0,Male,No,3,60,white
+61,Bachelors,2015,Bangalore,3,31.0,Male,No,5,61,white
+4562,Bachelors,2015,Bangalore,3,36.0,Male,No,4,4562,white
+748,Bachelors,2013,Pune,3,29.0,Male,No,5,748,black
+457,Bachelors,2016,Bangalore,3,28.0,Male,No,4,457,white
+4496,Bachelors,2014,Bangalore,3,40.0,Female,No,1,4496,white
+3485,Bachelors,2017,Bangalore,3,33.0,Male,No,5,3485,black
+1986,Bachelors,2017,Pune,3,29.0,Male,Yes,5,1986,white
+1144,Bachelors,2013,Pune,3,28.0,Male,No,5,1144,white
+2774,Masters,2013,Bangalore,3,32.0,Male,No,1,2774,white
+3218,Bachelors,2012,Pune,2,43.0,Female,No,1,3218,black
+1575,Bachelors,2017,Pune,2,29.0,Male,No,3,1575,white
+3873,Bachelors,2015,Bangalore,1,42.0,Male,No,1,3873,white
+2352,Bachelors,2013,Bangalore,3,29.0,Female,No,5,2352,white
+2495,Masters,2012,New Delhi,3,31.0,Male,No,2,2495,white
+2551,Bachelors,2017,Pune,2,30.0,Male,No,3,2551,yellow
+3304,Masters,2017,New Delhi,2,32.0,Female,No,2,3304,white
+395,PHD,2013,Bangalore,3,26.0,Male,No,3,395,black
+4025,Bachelors,2016,Bangalore,3,24.0,Male,No,0,4025,white
+2042,Masters,2017,Bangalore,3,28.0,Female,No,4,2042,white
+2615,Bachelors,2016,Bangalore,3,30.0,Male,Yes,3,2615,white
+2120,Masters,2017,Pune,2,29.0,Male,No,5,2120,white
+377,Bachelors,2017,Bangalore,3,28.0,Male,Yes,5,377,black
+459,Bachelors,2012,Bangalore,3,28.0,Male,No,4,459,black
+1620,Masters,2015,Pune,3,27.0,Female,No,4,1620,white
+1716,Bachelors,2016,Pune,3,29.0,Female,No,4,1716,white
+3730,Bachelors,2015,Bangalore,3,40.0,Male,No,2,3730,white
+3514,Bachelors,2015,Bangalore,3,40.0,Male,No,5,3514,white
+2986,Bachelors,2012,Pune,3,28.0,Male,No,4,2986,white
+746,Bachelors,2012,Bangalore,3,26.0,Female,No,3,746,black
+1002,Masters,2017,New Delhi,3,29.0,Female,No,3,1002,white
+3794,Bachelors,2015,New Delhi,3,41.0,Female,No,1,3794,white
+1427,Bachelors,2014,Bangalore,3,27.0,Male,No,4,1427,yellow
+2163,Bachelors,2014,Bangalore,3,28.0,Male,No,5,2163,black
+2646,Bachelors,2012,Bangalore,3,29.0,Female,No,2,2646,white
+1257,Masters,2017,New Delhi,2,25.0,Male,No,2,1257,black
+4029,Bachelors,2014,Pune,2,34.0,Male,No,3,4029,white
+2705,Bachelors,2013,Bangalore,3,27.0,Female,No,4,2705,white
+527,Bachelors,2017,New Delhi,2,30.0,Male,No,3,527,black
+2595,Bachelors,2014,Bangalore,3,28.0,Female,Yes,4,2595,white
+2274,Bachelors,2018,Pune,3,29.0,Male,No,2,2274,white
+64,Bachelors,2016,Bangalore,3,36.0,Male,No,4,64,white
+2659,Bachelors,2016,Pune,3,29.0,Male,No,5,2659,white
+1080,Bachelors,2014,Bangalore,3,26.0,Male,No,3,1080,white
+4398,Bachelors,2015,Bangalore,3,34.0,Male,No,4,4398,white
+4178,Bachelors,2017,Bangalore,3,42.0,Male,No,0,4178,white
+4244,Bachelors,2013,Bangalore,3,27.0,Male,No,4,4244,black
+1863,Bachelors,2012,Bangalore,3,27.0,Male,No,4,1863,white
+4386,Masters,2017,Bangalore,3,37.0,Male,No,4,4386,white
+3306,Bachelors,2013,Bangalore,3,32.0,Male,No,2,3306,white
+338,Bachelors,2013,Bangalore,3,26.0,Female,No,2,338,white
+581,Bachelors,2012,New Delhi,2,27.0,Male,No,3,581,white
+2277,Bachelors,2014,New Delhi,3,29.0,Female,No,5,2277,white
+994,Bachelors,2014,Bangalore,3,25.0,Male,No,2,994,black
+655,Bachelors,2016,Bangalore,3,27.0,Female,No,4,655,white
+3593,Bachelors,2015,Bangalore,3,34.0,Female,No,0,3593,white
+4218,Bachelors,2013,Bangalore,3,25.0,Male,No,1,4218,white
+887,Bachelors,2017,Bangalore,1,29.0,Male,No,5,887,black
+4477,Masters,2017,New Delhi,1,39.0,Male,No,0,4477,white
+1402,Masters,2013,Pune,2,30.0,Male,No,2,1402,white
+1190,Bachelors,2018,Bangalore,3,26.0,Male,Yes,3,1190,black
+1912,Bachelors,2014,Bangalore,2,27.0,Female,No,4,1912,white
+3847,Bachelors,2017,Bangalore,3,37.0,Male,Yes,0,3847,white
+688,Bachelors,2013,Bangalore,3,28.0,Male,No,4,688,black
+1077,Bachelors,2015,Bangalore,3,26.0,Female,No,2,1077,yellow
+2404,Masters,2015,Pune,2,31.0,Female,No,1,2404,white
+1998,Bachelors,2013,Bangalore,3,28.0,Male,No,4,1998,white
+743,Bachelors,2015,Bangalore,3,28.0,Female,No,5,743,white
+4632,Bachelors,2018,Bangalore,3,32.0,Female,No,2,4632,white
+674,Bachelors,2016,New Delhi,3,29.0,Female,Yes,5,674,black
+4279,PHD,2015,New Delhi,3,32.0,Male,No,3,4279,white
+2013,Masters,2015,New Delhi,3,30.0,Female,No,2,2013,white
+2412,Masters,2013,New Delhi,3,28.0,Female,No,5,2412,black
+482,Bachelors,2016,Pune,2,26.0,Female,No,2,482,white
+4041,Bachelors,2013,Bangalore,3,38.0,Male,No,5,4041,white
+1606,Bachelors,2014,Bangalore,3,26.0,Female,No,2,1606,white
+3981,Bachelors,2013,Bangalore,3,35.0,Male,No,6,3981,white
+1815,Bachelors,2015,Bangalore,3,29.0,Male,No,5,1815,white
+964,Bachelors,2012,Bangalore,3,28.0,Male,No,4,964,white
+1928,Bachelors,2016,New Delhi,3,29.0,Male,No,0,1928,yellow
+1447,Bachelors,2015,Pune,3,26.0,Male,Yes,2,1447,white
+3598,Masters,2017,New Delhi,2,36.0,Female,No,2,3598,yellow
+798,Bachelors,2016,Bangalore,3,27.0,Male,No,4,798,white
+2972,Bachelors,2015,Bangalore,3,27.0,Male,No,4,2972,white
+1552,Bachelors,2013,Bangalore,3,28.0,Male,No,5,1552,black
+110,Bachelors,2015,Bangalore,3,29.0,Female,No,5,110,white
+2721,PHD,2015,Pune,2,27.0,Female,No,4,2721,white
+4423,Bachelors,2017,Bangalore,3,29.0,Male,No,3,4423,white
+1263,Bachelors,2016,Bangalore,1,26.0,Female,No,3,1263,white
+1951,Bachelors,2013,Bangalore,3,27.0,Male,No,3,1951,white
+327,Masters,2017,New Delhi,3,25.0,Male,No,2,327,white
+4293,Masters,2013,Bangalore,3,32.0,Male,No,2,4293,white
+127,Bachelors,2015,Pune,3,29.0,Male,No,5,127,white
+3196,Bachelors,2017,Bangalore,3,37.0,Male,No,5,3196,black
+3266,Bachelors,2017,Bangalore,1,41.0,Male,No,0,3266,white
+3695,Bachelors,2016,Pune,3,41.0,Male,No,4,3695,white
+2718,Bachelors,2015,Pune,1,30.0,Female,No,0,2718,white
+4507,Bachelors,2015,Pune,3,40.0,Male,No,1,4507,white
+380,Bachelors,2016,Bangalore,3,29.0,Male,No,2,380,black
+4156,Masters,2018,New Delhi,3,31.0,Female,Yes,2,4156,white
+1133,Bachelors,2013,Bangalore,3,30.0,Male,No,0,1133,white
+904,Bachelors,2018,Bangalore,3,28.0,Male,No,4,904,black
+1142,Bachelors,2017,New Delhi,2,28.0,Male,No,5,1142,white
+470,Masters,2018,New Delhi,3,29.0,Male,Yes,2,470,white
+524,Masters,2017,New Delhi,3,26.0,Male,No,2,524,white
+1962,Bachelors,2013,Bangalore,3,26.0,Male,No,2,1962,black
+2450,Bachelors,2018,New Delhi,3,28.0,Female,Yes,5,2450,white
+4169,Bachelors,2015,Pune,3,41.0,Male,Yes,0,4169,black
+3044,Bachelors,2018,Pune,2,41.0,Female,No,0,3044,white
+1430,Bachelors,2016,New Delhi,3,29.0,Female,No,3,1430,white
+452,Bachelors,2014,Bangalore,3,27.0,Female,No,3,452,white
+1064,Bachelors,2014,Bangalore,3,28.0,Female,Yes,5,1064,white
+3591,Bachelors,2012,Bangalore,3,36.0,Male,No,1,3591,white
+2126,Bachelors,2014,Pune,2,29.0,Female,No,1,2126,white
+3305,Bachelors,2017,Bangalore,3,37.0,Female,No,5,3305,white
+1739,Bachelors,2015,Pune,2,25.0,Female,No,2,1739,white
+2960,Bachelors,2017,Pune,3,28.0,Male,Yes,4,2960,white
+1284,Masters,2016,New Delhi,3,26.0,Male,No,3,1284,white
+1382,Bachelors,2013,Pune,3,28.0,Male,No,5,1382,black
+636,Masters,2017,New Delhi,2,25.0,Female,Yes,2,636,white
+3510,Bachelors,2013,New Delhi,3,42.0,Female,No,1,3510,yellow
+62,PHD,2013,Bangalore,2,27.0,Male,No,3,62,white
+57,Masters,2014,Pune,3,40.0,Female,No,2,57,white
+1894,Bachelors,2013,Bangalore,3,28.0,Male,No,4,1894,white
+1744,Bachelors,2013,Bangalore,3,28.0,Female,No,4,1744,black
+594,Bachelors,2018,Pune,3,28.0,Male,No,4,594,white
+597,Bachelors,2012,Bangalore,3,27.0,Male,No,3,597,white
+3074,Bachelors,2015,Pune,2,35.0,Female,No,5,3074,black
+966,Bachelors,2014,Pune,3,27.0,Male,No,3,966,white
+238,Bachelors,2012,New Delhi,3,30.0,Male,No,1,238,white
+3948,Bachelors,2014,Bangalore,3,39.0,Female,No,3,3948,white
+1145,Bachelors,2015,Bangalore,3,28.0,Female,No,5,1145,white
+3581,Bachelors,2015,Pune,3,36.0,Male,No,3,3581,white
+3286,Bachelors,2012,New Delhi,2,35.0,Female,No,0,3286,black
+2191,Masters,2017,New Delhi,3,31.0,Male,No,1,2191,white
+2288,Bachelors,2017,Bangalore,3,31.0,Male,No,1,2288,white
+2520,Masters,2014,Bangalore,3,31.0,Male,No,4,2520,white
+2223,Bachelors,2015,Bangalore,3,28.0,Male,No,4,2223,black
+3281,Bachelors,2015,New Delhi,3,38.0,Male,No,4,3281,white
+3476,Bachelors,2013,Bangalore,3,37.0,Male,No,5,3476,black
+2297,Bachelors,2015,New Delhi,3,28.0,Male,No,4,2297,white
+2838,Masters,2017,New Delhi,3,28.0,Female,No,4,2838,white
+1196,Bachelors,2018,Bangalore,3,28.0,Male,Yes,4,1196,white
+2000,Bachelors,2017,New Delhi,3,29.0,Female,No,1,2000,black
+4231,Bachelors,2015,New Delhi,3,31.0,Male,No,5,4231,white
+477,Masters,2012,Pune,3,28.0,Female,No,5,477,black
+240,Bachelors,2016,Pune,3,27.0,Male,No,3,240,black
+1615,Bachelors,2017,Pune,3,30.0,Male,No,3,1615,black
+391,Bachelors,2018,Bangalore,3,29.0,Male,Yes,3,391,white
+1911,Bachelors,2016,Bangalore,3,26.0,Male,No,2,1911,white
+1494,Bachelors,2017,Pune,2,27.0,Female,No,4,1494,yellow
+193,Bachelors,2015,Bangalore,3,28.0,Female,No,5,193,black
+3355,Bachelors,2016,Bangalore,3,43.0,Male,No,4,3355,white
+2335,Masters,2016,Pune,3,31.0,Male,No,1,2335,white
+1283,Bachelors,2012,Pune,3,25.0,Male,No,2,1283,white
+1959,Bachelors,2018,Bangalore,3,29.0,Male,No,5,1959,white
+3191,PHD,2014,Bangalore,3,33.0,Male,No,1,3191,white
+1672,Bachelors,2015,Bangalore,3,27.0,Female,No,4,1672,white
+952,Masters,2017,New Delhi,3,27.0,Male,No,3,952,white
+2434,Bachelors,2015,Bangalore,3,28.0,Female,No,5,2434,white
+1155,Masters,2012,New Delhi,3,28.0,Female,No,4,1155,black
+1267,Bachelors,2015,Pune,2,29.0,Female,Yes,2,1267,white
+4585,Bachelors,2014,Bangalore,3,35.0,Male,No,4,4585,white
+3616,Masters,2015,New Delhi,3,39.0,Male,No,1,3616,white
+3868,Bachelors,2017,Bangalore,3,32.0,Male,Yes,2,3868,black
+3499,Bachelors,2016,Pune,3,32.0,Male,No,0,3499,white
+2563,Bachelors,2017,Bangalore,3,32.0,Male,No,1,2563,white
+2909,Bachelors,2017,Bangalore,3,31.0,Male,No,0,2909,white
+1711,Bachelors,2017,Bangalore,3,30.0,Male,No,5,1711,white
+2625,Bachelors,2015,Pune,2,29.0,Female,No,0,2625,black
+3036,Masters,2017,New Delhi,2,37.0,Male,No,5,3036,white
+707,Masters,2017,New Delhi,2,26.0,Male,No,2,707,white
+3437,Masters,2014,Pune,3,40.0,Male,No,4,3437,white
+3316,Bachelors,2012,Bangalore,3,40.0,Male,No,0,3316,white
+1162,Bachelors,2017,Bangalore,1,25.0,Male,No,2,1162,white
+1599,Bachelors,2016,New Delhi,3,27.0,Female,No,4,1599,white
+764,Masters,2015,New Delhi,3,29.0,Female,No,3,764,black
+875,Masters,2014,New Delhi,3,27.0,Male,No,3,875,white
+721,Bachelors,2013,New Delhi,2,25.0,Female,No,2,721,black
+231,PHD,2015,New Delhi,2,27.0,Female,No,3,231,white
+1303,Bachelors,2012,Bangalore,3,28.0,Male,No,4,1303,black
+4536,PHD,2016,New Delhi,3,23.0,Male,No,0,4536,white
+4609,Bachelors,2014,Pune,1,24.0,Female,No,0,4609,black
+230,Bachelors,2014,Pune,3,26.0,Male,No,2,230,white
+1993,Bachelors,2015,Pune,3,29.0,Female,No,2,1993,white
+4191,Bachelors,2012,Pune,3,26.0,Male,Yes,2,4191,black
+659,Bachelors,2017,Bangalore,3,27.0,Male,No,3,659,yellow
+3291,Bachelors,2012,Bangalore,3,39.0,Male,No,4,3291,white
+1364,Bachelors,2013,New Delhi,3,27.0,Female,No,3,1364,white
+755,Bachelors,2012,Bangalore,3,28.0,Female,No,5,755,black
+4166,Masters,2016,New Delhi,3,26.0,Male,No,2,4166,black
+3172,Bachelors,2015,Bangalore,3,34.0,Male,No,4,3172,white
+520,Bachelors,2016,Bangalore,3,28.0,Female,No,5,520,white
+489,Bachelors,2013,Pune,3,26.0,Male,No,3,489,white
+2771,Bachelors,2017,Bangalore,3,28.0,Female,No,5,2771,white
+2565,Bachelors,2015,New Delhi,3,29.0,Female,No,4,2565,white
+2913,Bachelors,2012,New Delhi,3,30.0,Female,No,0,2913,white
+1610,Bachelors,2012,Bangalore,3,29.0,Male,Yes,5,1610,white
+142,Bachelors,2017,New Delhi,3,29.0,Female,No,2,142,white
+155,Masters,2012,New Delhi,3,28.0,Female,No,4,155,black
+2159,Bachelors,2015,Pune,3,30.0,Female,Yes,1,2159,white
+1945,Bachelors,2015,Bangalore,3,25.0,Male,No,2,1945,white
+3970,Bachelors,2014,Bangalore,3,33.0,Female,No,5,3970,white
+488,Bachelors,2013,Pune,2,26.0,Male,Yes,2,488,black
+1577,Bachelors,2015,Bangalore,3,27.0,Male,No,3,1577,black
+3828,Bachelors,2015,Bangalore,3,40.0,Male,No,5,3828,white
+3058,Bachelors,2012,Bangalore,3,35.0,Male,No,2,3058,white
+3713,Bachelors,2015,New Delhi,2,38.0,Female,No,3,3713,white
+956,Masters,2017,Pune,2,25.0,Female,No,2,956,white
+2038,Bachelors,2014,Bangalore,3,30.0,Male,No,1,2038,yellow
+4465,Bachelors,2014,Bangalore,3,39.0,Male,No,2,4465,white
+656,Bachelors,2018,Bangalore,1,26.0,Male,Yes,3,656,white
+4605,Masters,2017,New Delhi,3,41.0,Female,No,1,4605,white
+277,Bachelors,2014,Bangalore,3,30.0,Male,No,1,277,black
+3056,Bachelors,2018,Bangalore,3,36.0,Male,Yes,2,3056,white
+3859,Bachelors,2012,Pune,3,39.0,Male,No,5,3859,black
+3742,Masters,2015,Pune,3,40.0,Male,No,5,3742,white
+1281,Bachelors,2017,New Delhi,2,30.0,Male,No,0,1281,white
+18,Bachelors,2015,Pune,2,32.0,Female,No,0,18,black
+2992,Bachelors,2015,Pune,3,36.0,Female,No,0,2992,white
+2662,Bachelors,2014,Pune,3,31.0,Male,No,1,2662,white
+808,Bachelors,2017,Bangalore,3,28.0,Male,No,5,808,black
+384,Bachelors,2014,Bangalore,3,28.0,Male,No,4,384,black
+371,Masters,2015,New Delhi,1,28.0,Male,No,5,371,white
+2777,Masters,2017,New Delhi,3,31.0,Female,No,2,2777,white
+529,PHD,2014,New Delhi,3,26.0,Male,No,2,529,white
+1637,Bachelors,2016,Bangalore,3,28.0,Male,No,4,1637,white
+1559,Bachelors,2016,Bangalore,3,27.0,Male,No,4,1559,black
+1062,Bachelors,2016,New Delhi,3,27.0,Male,No,4,1062,white
+2417,Bachelors,2015,Bangalore,2,28.0,Female,No,5,2417,white
+1054,Bachelors,2017,Bangalore,3,29.0,Male,No,2,1054,black
+3148,Masters,2017,New Delhi,3,34.0,Male,No,5,3148,black
+392,Bachelors,2015,Pune,3,29.0,Male,No,5,392,white
+1304,Bachelors,2012,Bangalore,3,27.0,Male,No,3,1304,white
+1446,Bachelors,2018,Bangalore,3,25.0,Male,No,2,1446,black
