@@ -1,5 +1,43 @@
 # %%
 import pandas as pd
+from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.preprocessing import StandardScaler, OneHotEncoder, LabelEncoder
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnTransformer
+from sklearn.impute import SimpleImputer
+
+# Custom transformers
+class DataFrameSelector(BaseEstimator, TransformerMixin):
+    def __init__(self, attribute_names):
+        self.attribute_names = attribute_names
+    def fit(self, X, y=None):
+        return self
+    def transform(self, X):
+        return X[self.attribute_names]
+
+class DropDuplicates(BaseEstimator, TransformerMixin):
+    def __init__(self, subset):
+        self.subset = subset
+    def fit(self, X, y=None):
+        return self
+    def transform(self, X):
+        return X.drop_duplicates(subset=self.subset)
+
+class DropMissingValues(BaseEstimator, TransformerMixin):
+    def __init__(self):
+        pass
+    def fit(self, X, y=None):
+        return self
+    def transform(self, X):
+        return X.dropna()
+
+class CustomLabelEncoder(BaseEstimator, TransformerMixin):
+    def __init__(self, mapping):
+        self.mapping = mapping
+    def fit(self, X, y=None):
+        return self
+    def transform(self, X):
+        return X.map(self.mapping)
 
 # Load the datasets
 x_train = pd.read_csv('./X_train.csv')
