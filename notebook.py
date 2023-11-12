@@ -502,33 +502,33 @@ for item in results_df.index:
     print(item,results_df.loc[item]['Best Parameters'])
 
 
-# %%
+# # %%
 
 
-# %%
-#TODO: Balancing The Dataset
-from sklearn.utils import resample
+# # %%
+# #TODO: Balancing The Dataset
+# from sklearn.utils import resample
 
-#Separate majority and minority classes
-df_majority = df[df.LeaveOrNot==0]
-df_minority = df[df.LeaveOrNot==1]
+# #Separate majority and minority classes
+# df_majority = df[df.LeaveOrNot==0]
+# df_minority = df[df.LeaveOrNot==1]
 
-# Upsample minority class
-df_minority_upsampled = resample(df_minority,
-                                 replace=True,
-                                 n_samples=,
-                                 random_state=10)
+# # Upsample minority class
+# df_minority_upsampled = resample(df_minority,
+#                                  replace=True,
+#                                  n_samples=,
+#                                  random_state=10)
 
-# Combine majority class with upsampled minority class
-df_upsampled = pd.concat([df_majority, df_minority_upsampled])
-df_upsampled['LeaveOrNot'].value_counts()
+# # Combine majority class with upsampled minority class
+# df_upsampled = pd.concat([df_majority, df_minority_upsampled])
+# df_upsampled['LeaveOrNot'].value_counts()
 
-#Visualizing the Geography
-df_upsampled['LeaveOrNot'].value_counts().plot(kind = 'bar')
-
-
-# %%
-#TODO: feature selection ?
+# #Visualizing the Geography
+# df_upsampled['LeaveOrNot'].value_counts().plot(kind = 'bar')
 
 
-# %%
+# # %%
+# #TODO: feature selection ?
+
+
+# # %%
