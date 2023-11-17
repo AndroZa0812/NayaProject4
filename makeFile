@@ -1,0 +1,13 @@
+create_project: create_env
+	@echo "create project"
+	@python -m venv venv
+	@./venv/bin/python -m pip install --upgrade pip-tools
+	@./venv/bin/python -m pip-compile requirements.in --output-file requirements.txt
+	@./venv/bin/python -m pip-sync requirements.txt
+
+create_env:
+	@if [ ! -d "venv" ]; then\
+		python -m venv venv;\
+	else\
+		echo "venv already exists";\
+	fi
