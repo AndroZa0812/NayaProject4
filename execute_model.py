@@ -17,7 +17,7 @@ def main():
     # read X_test
     X_test = pd.read_csv('X_test.csv', index_col=0)
     predictions = predict(X_test)
-    predictions.to_csv('y_test_pred.csv')
+    predictions['LeaveOrNot'].to_json('y_test_pred.json')
 
 
 if __name__ == '__main__':
